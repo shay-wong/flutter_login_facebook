@@ -12,12 +12,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  list_ext: ^1.0.0
+  list_ext: ^1.0.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  innim_lint: ^0.4.0
+  innim_lint: ^0.5.0
 
 flutter:
   plugin:
